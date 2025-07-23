@@ -1,4 +1,4 @@
-❤️‍🔥 Linux-101-Basics: Diving Deep into the OS for Cyber Defenders! 🕵️‍♂️
+**❤️‍🔥 Linux-101-Basics: Diving Deep into the OS for Cyber Defenders! 🕵️‍♂️**
 
 🚀 TryHackMe Linux 101: My First Steps into Cybersecurity Command Mastery! 💻🔒
 
